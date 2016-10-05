@@ -1,0 +1,30 @@
+{
+  "name": "react-native-icloud-token",
+  "version": "0.1.0",
+  "description": "Provides access to the iCloud token delivered through NSFileManager.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yannickoo/react-native-icloud-token.git"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "icloud",
+    "token"
+  ],
+  "author": {
+    "name": "yannickoo"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yannickoo/react-native-icloud-token/issues"
+  },
+  "homepage": "https://github.com/yannickoo/react-native-icloud-token#readme",
+  "peerDependencies": {
+    "react-native": ">=0.12"
+  }
+}
